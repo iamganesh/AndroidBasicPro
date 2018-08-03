@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Redirect</string>
+    <string name="button">Button</string>
+    <string name="click_to_redirect">Click to redirect</string>
+</resources>
